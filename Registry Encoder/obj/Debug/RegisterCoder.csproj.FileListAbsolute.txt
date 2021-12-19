@@ -1,0 +1,6 @@
+C:\Users\kerle\source\repos\RegisterCoder\bin\Debug\RegisterCoder.dll
+C:\Users\kerle\source\repos\RegisterCoder\bin\Debug\RegisterCoder.pdb
+C:\Users\kerle\source\repos\RegisterCoder\obj\Debug\RegisterCoder.csproj.AssemblyReference.cache
+C:\Users\kerle\source\repos\RegisterCoder\obj\Debug\RegisterCoder.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\RegisterCoder\obj\Debug\RegisterCoder.dll
+C:\Users\kerle\source\repos\RegisterCoder\obj\Debug\RegisterCoder.pdb
