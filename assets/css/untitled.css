@@ -1,0 +1,94 @@
+.navbar-dark .navbar-nav .nav-link {
+}
+
+body {
+  padding-top: 80px;
+  /*padding: 60px;*/
+}
+
+.exploit {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.h6, h6 {
+  font-size: 18px;
+}
+
+.h1, h1 {
+}
+
+.tophead {
+  font-size: 54px;
+}
+
+.display-4 {
+  font-size: 20px;
+  width: 1200px;
+}
+
+img {
+  width: 160px;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.exploitsec {
+  height: 400px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  /*align-self: center!important;*/
+}
+
+.border {
+}
+
+.frontpagebtn {
+  width: 100%;
+}
+
+.card.text-white.bg-dark {
+}
+
+.card.text-white.bg-dark {
+  border-radius: 10px;
+}
+
+.card-img-top.w-100.d-block {
+  border-radius: 11px 11px 0px 0px;
+}
+
+.h1, h1 {
+  text-align: center;
+}
+
+.stepdiv {
+  height: 60px;
+}
+
+.exploitblocktest {
+  padding-top: 18px;
+}
+
+.box {
+  color: #343a40!important;
+  background-color: #343a40!important;
+}
+
+.features-boxed {
+}
+
+.text-primary.description {
+  color: rgb(166,173,177)!important;
+}
+
+.features-boxed {
+  padding-top: 30px;
+}
+
+.box {
+  border-radius: 6px;
+}
+
