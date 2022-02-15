@@ -1,0 +1,20 @@
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background: #;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background: #4444!important;
+  opacity: 0.9;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+  color: #808080;
+  /*text-decoration: underline;*/
+}
+
+.navbar-dark .navbar-nav .nav-link {
+}
+
