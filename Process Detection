@@ -1,0 +1,20 @@
+void ProcessDetect(std::string process)
+{
+    unsigned long robloxId = 0;
+    HWND hWnd;
+    HANDLE handle;
+
+
+
+    LPCSTR lpMyString = process.c_str();;
+
+    hWnd = FindWindowA(NULL, lpMyString);
+    GetWindowThreadProcessId(hWnd, &robloxId);
+    handle = OpenProcess(PROCESS_ALL_ACCESS, false, robloxId);
+    if (!handle)
+    {
+        // if the process isnt detected
+        system("pause");
+        exit(0);
+    }
+}
